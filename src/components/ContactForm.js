@@ -18,7 +18,7 @@ const Input = styled.input`
 const Button = styled.button`
   padding: 10px;
   font-size: 1em;
-  background-color: #4CAF50;
+  background-color: #4CAF51;
   color: white;
   border: none;
   cursor: pointer;
